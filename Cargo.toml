@@ -1,0 +1,6 @@
+[package]
+name = "edgedb_rust_codespace_playground"
+version = "0.1.0"
+authors = ["Cyrill Zadra <cyrill.zadra@gmail.ch>"]
+
+
